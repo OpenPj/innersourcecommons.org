@@ -18,7 +18,7 @@ The InnerSource Learning Path covers the following sections:
 
 Check out the Introduction to learn about the types of problems where InnerSource can help, how to do it, the types of benefits you can expect to see by participating, and the underlying principles that make it all work.
 
-View in [English][Introduction], [German][German Introduction], [日本語 (Japanese)][Japanese Introduction], or [中文 (Chinese)][Chinese Introduction]
+View in [English][Introduction], [Deutsch (German)][German Introduction], [日本語 (Japanese)][Japanese Introduction], [中文 (Chinese)][Chinese Introduction], or [Italiano (Italian)][Italian Introduction].
  
 ### [Trusted Committer]
 
@@ -26,7 +26,7 @@ View in [English][Introduction], [German][German Introduction], [日本語 (Japa
 
 Visit this section to get an introduction to the crucial role of Trusted Committer, essential for a strong InnerSource implementation in any company. Learn about what it takes to fill the role and what the path towards being a Trusted Committer looks like.
 
-View in [English][Trusted Committer], [German][German Trusted Committer], or [中文 (Chinese)][Chinese Trusted Committer]
+View in [English][Trusted Committer], [Deutsch (German)][German Trusted Committer], or [中文 (Chinese)][Chinese Trusted Committer]
  
 ### [Contributor]
 
@@ -41,6 +41,8 @@ View in [English][Contributor], [日本語 (Japanese)][Japanese Contributor] or 
 <img src="/assets/img/LP_thumbnail_productowner.jpg" alt="Learning Path Product Owner Thumbnail" width="200"/>
 
 This section is for Product Owners or Program Managers and covers the basic InnerSource techniques that will save countless management and developer hours.
+
+View in [中文 (Chinese)][Chinese Product Owner]
 
 The videos are becoming available on our YouTube channel: [YouTubeChannel]
 
@@ -59,7 +61,9 @@ If you would like to get involved with the Learning Path work at InnerSource Com
 [German Introduction]: ./introduction/de
 [Japanese Introduction]: ./introduction/ja
 [Chinese Introduction]: ./introduction/zh
+[Italian Introduction]: ./introduction/it
 [German Trusted Committer]: ./trusted-committer/de
 [Chinese Trusted Committer]: ./trusted-committer/zh
 [Japanese Contributor]: ./contributor/ja
 [Chinese Contributor]: ./contributor/zh
+[Chinese Product Owner]: ./product-owner/zh
